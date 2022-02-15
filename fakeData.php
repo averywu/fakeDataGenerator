@@ -1,4 +1,8 @@
 <?php
+/*   
+    author : averywu.tw@gmail.com
+    version : 0.1  
+*/  
 namespace fakeData;
 class fakeData
 {
